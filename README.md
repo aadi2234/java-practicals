@@ -1,11 +1,11 @@
 ---
 
-## 📌 Overview
+### 📌 Overview
 This repository contains a comprehensive collection of practical programs covering fundamental and advanced concepts of Core Java.
 
 ---
 
-## 📚 Concepts Covered
+### 📚 Concepts Covered
 The practicals are organized by topic, covering the entire spectrum of Core Java.
 
 Java Fundamentals
@@ -33,7 +33,7 @@ Packages: Creating and using user-defined packages to organize classes.
 
 ---
 
-##🚀 How to Run
+###🚀 How to Run
 Using Command Line
 - Clone the repository:
   git clone https://github.com/aadi2234/core-java-practicals.git
