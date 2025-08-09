@@ -33,7 +33,7 @@ Packages: Creating and using user-defined packages to organize classes.
 
 ---
 
-###🚀 How to Run
+🚀 How to Run
 Using Command Line
 - Clone the repository:
   git clone https://github.com/aadi2234/core-java-practicals.git
